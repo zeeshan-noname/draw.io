@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T06:45:25.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LHjguax9WK4yuWFAjPAg" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:45:43.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YybiqJEJiHvGtfzfqsN_" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
     <mxGraphModel dx="1050" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5xO4zUCTU97ihrAl-Xpu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Re-factoring goals&lt;/h1&gt;&lt;p&gt;1. Re use the code&lt;br&gt;2. clean the code&lt;br&gt;3. improve APIs performance&amp;nbsp;&lt;br&gt;4. cache the results&amp;nbsp;&lt;br&gt;5. use lazzy loading and use memo&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="30" width="270" height="130" as="geometry" />
+        <mxCell id="5xO4zUCTU97ihrAl-Xpu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Re-factoring goals&lt;/h1&gt;&lt;p&gt;1. Re use the code&lt;br&gt;2. clean the code&lt;br&gt;3. improve APIs performance&amp;nbsp;&lt;br&gt;4. cache the results&amp;nbsp;&lt;br&gt;5. use lazzy loading and use memo&lt;br&gt;6. Responsiveness&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="8uUWsJeZfMnWuA44fKmX-4" value="c&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%2211.%20Dividers%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2250%22%20y%3D%22560%22%20width%3D%22140%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="200" height="440" as="geometry" />
