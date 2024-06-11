@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T05:52:29.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.2" etag="KvDnnLhWNIiJ38VOaU-F" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:10:37.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QvGhzcu4quOM9J4hLAtg" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5xO4zUCTU97ihrAl-Xpu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Re-factoring goals&lt;/h1&gt;&lt;p&gt;1. Re use the code&lt;br&gt;2. clean the code&lt;br&gt;3. improve APIs performance&amp;nbsp;&lt;br&gt;4. cache the results&amp;nbsp;&lt;br&gt;5. use lazzy loading and use memo&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="270" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
