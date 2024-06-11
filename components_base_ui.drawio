@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T06:19:45.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YXXMrv7LuYj5HdA82uVO" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:20:42.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="c9djf_I1ooEUN7rLzeFs" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="8uUWsJeZfMnWuA44fKmX-15" value="10. Text field" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="530" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8uUWsJeZfMnWuA44fKmX-16" value="11.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8uUWsJeZfMnWuA44fKmX-16" value="11. Dividers" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="560" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
