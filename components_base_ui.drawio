@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T06:20:42.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="c9djf_I1ooEUN7rLzeFs" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:21:21.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JuhEVLr0YwlA-Ub-2KS6" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="8uUWsJeZfMnWuA44fKmX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="200" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="8uUWsJeZfMnWuA44fKmX-5" value="&lt;b&gt;List of common compoents&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="210" width="130" height="30" as="geometry" />
+        <mxCell id="8uUWsJeZfMnWuA44fKmX-5" value="&lt;b&gt;List of commonly used major compoents&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="210" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8uUWsJeZfMnWuA44fKmX-6" value="1. Drop downs" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="260" width="180" height="30" as="geometry" />
