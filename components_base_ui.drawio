@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T06:44:15.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UGmfQXgS1WUkFdklze1g" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:45:25.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LHjguax9WK4yuWFAjPAg" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
     <mxGraphModel dx="1050" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="50" y="590" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8uUWsJeZfMnWuA44fKmX-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-90" width="510" height="310" as="geometry" />
+          <mxGeometry x="380" y="-90" width="780" height="310" as="geometry" />
         </mxCell>
         <mxCell id="8uUWsJeZfMnWuA44fKmX-19" value="&lt;b&gt;Steps&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="-80" width="165" height="30" as="geometry" />
@@ -101,8 +101,14 @@
         <mxCell id="8uUWsJeZfMnWuA44fKmX-31" value="7. creating chatbot component using newly created componets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="45" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8uUWsJeZfMnWuA44fKmX-33" value="creating conversation history compoent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="8uUWsJeZfMnWuA44fKmX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uUWsJeZfMnWuA44fKmX-33" target="8uUWsJeZfMnWuA44fKmX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uUWsJeZfMnWuA44fKmX-33" value="8. creating conversation history component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="-10" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8uUWsJeZfMnWuA44fKmX-35" value="9. creating common forms for chatbot and QA bot so that can be used to edit and create&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-10" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
