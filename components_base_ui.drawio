@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:31:37.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BM3Uas049eScVR0fyS68" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:35:19.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="T3-dRlkoAorPJMKE74tQ" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
     <mxGraphModel dx="1000" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-27" value="&lt;b&gt;UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="790" width="165" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="800" width="160" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="728.5" y="810" width="210" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="5xO4zUCTU97ihrAl-Xpu-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Re-factoring goals&lt;/h1&gt;&lt;p&gt;1. Re use the code&lt;br&gt;2. clean the code&lt;br&gt;3. improve APIs performance&amp;nbsp;&lt;br&gt;4. cache the results&amp;nbsp;&lt;br&gt;5. use lazzy loading and use memo&lt;br&gt;6. Responsiveness&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="30" width="270" height="150" as="geometry" />
         </mxCell>
@@ -198,20 +207,44 @@
         <mxCell id="2GCgo0uBYDXy8U-ablGI-21" value="SSE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2GCgo0uBYDXy8U-ablGI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="728.5" y="810" width="210" height="380" as="geometry" />
-        </mxCell>
         <mxCell id="2GCgo0uBYDXy8U-ablGI-26" value="&lt;b&gt;UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="748.5" y="820" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2GCgo0uBYDXy8U-ablGI-27" value="&lt;b&gt;UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="790" width="165" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="2GCgo0uBYDXy8U-ablGI-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="800" width="160" height="380" as="geometry" />
-        </mxCell>
         <mxCell id="2GCgo0uBYDXy8U-ablGI-29" value="&lt;b&gt;Backend&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="810" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="810" width="210" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2GCgo0uBYDXy8U-ablGI-31" target="2GCgo0uBYDXy8U-ablGI-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="1210" />
+              <mxPoint x="660" y="1210" />
+              <mxPoint x="660" y="980" />
+              <mxPoint x="580" y="980" />
+              <mxPoint x="580" y="920" />
+              <mxPoint x="560" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-31" value="Conversation history list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="930" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2GCgo0uBYDXy8U-ablGI-32" target="2GCgo0uBYDXy8U-ablGI-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="1070" />
+              <mxPoint x="1095" y="1220" />
+              <mxPoint x="650" y="1220" />
+              <mxPoint x="650" y="950" />
+              <mxPoint x="550" y="950" />
+              <mxPoint x="550" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-32" value="Create new conversation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
