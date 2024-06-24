@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:20:28.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZUKgO3E-rN6gnUHGAG41" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:28:22.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nLrHaXk76C2roKMqT8H5" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
-    <mxGraphModel dx="1229" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
           <mxGeometry x="443.5" y="750" width="780" height="500" as="geometry" />
         </mxCell>
         <mxCell id="2GCgo0uBYDXy8U-ablGI-11" value="&lt;b&gt;Chatting component strucutre&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="751" y="780" width="165" height="30" as="geometry" />
+          <mxGeometry x="748.5" y="760" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2GCgo0uBYDXy8U-ablGI-12" value="Chat list&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="748.5" y="1010" width="170" height="60" as="geometry" />
@@ -197,6 +197,21 @@
         </mxCell>
         <mxCell id="2GCgo0uBYDXy8U-ablGI-21" value="SSE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="728.5" y="810" width="210" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-26" value="&lt;b&gt;UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="748.5" y="820" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-27" value="&lt;b&gt;UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="790" width="165" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="800" width="160" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-29" value="&lt;b&gt;UI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="810" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
