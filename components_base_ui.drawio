@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T06:09:14.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GMc2_ACc6eIeF5wnS2uz" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:13:40.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XqWWIHK9m2zWwLQXPTIy" version="24.5.2" type="github">
   <diagram name="Page-1" id="wD-8uv_HLO9gvdmJCeTE">
     <mxGraphModel dx="1229" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,6 +151,9 @@
         </mxCell>
         <mxCell id="2GCgo0uBYDXy8U-ablGI-11" value="&lt;b&gt;Chatting component strucutre&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="751" y="780" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2GCgo0uBYDXy8U-ablGI-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
